@@ -1,18 +1,18 @@
 body {
-    background-color: #edffec;
+  background-color: #edffec;
 }
 
 hr {
-    border-style: none none dotted;
-    border-color: lightgrey;
-    border-width: 10px;;
-    width: 5%;
+  border-style: none none dotted;
+  border-color: lightgrey;
+  border-width: 10px;
+  width: 5%;
 }
 
 h1 {
-    color: #66bfbf;
+  color: #66bfbf;
 }
 
 h3 {
-    color: #66bfbf;
+  color: #66bfbf;
 }
